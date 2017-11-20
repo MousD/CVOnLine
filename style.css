@@ -1,0 +1,43 @@
+body
+{
+
+
+}
+
+
+h1
+{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+	background-image: url("FondCodeCV.jpg");
+	background-attachment: fixed;
+	background-repeat: repeat;
+	
+
+}
+
+h2
+{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    border: 3px blue double;
+}
+
+h3
+{
+    color: green;
+    text-decoration: underline;
+}
+
+p
+{
+    text-align: center;
+}
+
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: green;
+}
